@@ -1,3 +1,8 @@
+## b2.0.1.0
+- major refactor and code cleanup
+- improved stability and performance
+- changed to new Auth flow
+ 
 ## 1.1.0
 
 - rename application to darts-gif
